@@ -9,7 +9,8 @@ Adresy ważne:
 
 1. https://www.jetbrains.com/pycharm/download/
 2. https://apilayer.com/ - tu sklep z systemami API
-3. https://ipstack.com/ - z tego będziemy korzystać
+3. https://api.ipify.org/ - sprawdzenie naszego IP
+3. https://ipstack.com/ - z tego będziemy korzystać by dostać info o naszym IP
 4. Biblioteka https://www.pysimplegui.org
 5. Biblioteka https://requests.readthedocs.io
 4. konto mailowe - będziemy korzystać z udostępnionego
